@@ -1,0 +1,8 @@
+
+import fullscreen from 'vue-fullscreen'    //  È«ÆÁ
+
+import VueClipboard from 'vue-clipboard2'  //  Õ³Ìù°å
+
+import html2canvas from 'html2canvas';     //  html×ªcanvas
+
+import jspdf from 'jspdf';                 //  Í¼Æ¬×ªpdf
